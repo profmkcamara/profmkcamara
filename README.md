@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://khalidtech.com)
+[![MasterHead](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)](https://khalidtech.com)
 
 <h1 align="center">Hi, I'm Prof. M.K. Camara</h1>
 <h3 align="center">Cybersecurity Expert | Red Team Operator | Founder & CEO @ KhalidTech</h3>
@@ -7,7 +7,6 @@
 
 🔐 I specialize in ethical hacking, offensive security, and building secure systems for the modern web.  
 🚀 My mission is to secure the future through innovation, automation, and education.  
-🧠 On this page, I share my journey in cybersecurity, tech leadership, and digital warfare.  
 📞 Call me: +234 816 376 7167  
 📫 Email: khalidcamzy5@gmail.com
 
