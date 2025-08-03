@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://khalidtech.com)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://khalidtech.com)
 
 <h1 align="center">Hi, I'm Prof. M.K. Camara</h1>
 <h3 align="center">Cybersecurity Expert | Red Team Operator | Founder & CEO @ KhalidTech</h3>
@@ -8,7 +8,8 @@
 🔐 I specialize in ethical hacking, offensive security, and building secure systems for the modern web.  
 🚀 My mission is to secure the future through innovation, automation, and education.  
 🧠 On this page, I share my journey in cybersecurity, tech leadership, and digital warfare.  
-📫 Reach me: khalidcamzy5@gmail.com
+📞 Call me: +234 816 376 7167  
+📫 Email: khalidcamzy5@gmail.com
 
 ---
 
@@ -18,6 +19,7 @@
 <a href="https://web.facebook.com/profile.php?id=61578622499738" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="mailto:khalidcamzy5@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" /></a>
 <a href="mailto:khalidtech2024@outlook.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" alt="Outlook" height="30" width="40" /></a>
+<a href="tel:+2348163767167" target="blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="Phone" height="30" width="40" /></a>
 </p>
 
 ---
